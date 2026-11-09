@@ -55,9 +55,10 @@ Do steps 1 and 2 above, then attach the same file in a normal chat and send the 
 
 ```bash
 codex plugin marketplace add adplug-app/google-ads-manager
+codex plugin add google-ads-manager@adplug
 ```
 
-Then open `/plugins` in Codex, pick the adplug marketplace, install Google Ads Manager, sign in to AdPlug when asked, and start a new session with "start".
+Or, after the first line, open `/plugins` in Codex, pick the adplug marketplace and install Google Ads Manager. Sign in to AdPlug when asked, and start a new session with "start".
 
 ## Use it in Claude
 
