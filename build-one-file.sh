@@ -7,12 +7,12 @@ OUT=google-ads-manager-for-openai-dots.md
 {
   echo "# Google Ads Manager by AdPlug (one file)"
   echo
-  echo "Everything in one file: the instructions for an OpenAI dot, the Google Ads Manager skill, its three routines and their references. Where a section mentions a skill or \`references/<file>.md\`, it's further down this file. Source: https://github.com/adplug-app/google-ads-manager"
+  echo "Everything in one file: the instructions for an OpenAI dot, the Google Ads Manager skill, its four routines and their references. Where a section mentions a skill or \`references/<file>.md\`, it's further down this file. Source: https://github.com/adplug-app/google-ads-manager"
   echo
   echo "---"
   echo
   cat DOT.md
-  for s in google-ads-manager google-ads-daily-check google-ads-weekly-plan google-ads-monthly-report; do
+  for s in google-ads-manager google-ads-daily-check google-ads-weekly-plan google-ads-opportunity-hunt google-ads-monthly-report; do
     echo; echo "---"; echo; echo "<!-- skill: $s -->"; echo
     strip "skills/$s/SKILL.md"
   done

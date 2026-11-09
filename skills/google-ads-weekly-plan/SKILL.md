@@ -11,7 +11,9 @@ metadata:
 
 Follow the `google-ads-manager` skill for the rules and read each client's brief, then the change log. This is where the managing happens: what you'd do next, and why.
 
-**Lead the message with the plan** (section 5): the changes you'd make next and what you're holding. Then the evidence behind it, sections 1 to 4.
+**Lead the message with where the account stands against the goal** this month (leads, cost per lead against the target, booked jobs, on track or not), **then the plan** (section 5): the changes you'd make next and what you're holding. Then the evidence behind it, sections 1 to 4. Draw on the brief's Opportunities list from Thursday's hunt.
+
+On Monday this replaces the daily check: run the daily check's items first (`google-ads-daily-check`) and open with anything they find.
 
 ## 1. Last week against the week before
 
@@ -54,11 +56,7 @@ Then look for patterns: break the search terms that spent without a lead into on
 
 ## 4. Opportunities
 
-- Search terms that bring leads but aren't keywords yet: propose them as phrase or exact keywords in the right ad group.
-- Campaigns under the target cost per lead but losing impression share to budget: the clearest case for more budget. Show the daily and monthly cost, and what more leads it may bring at the current rate.
-- Losing impression share to rank: Quality Score parts (expected CTR, ad relevance, landing page experience) on the keywords that spend most, and what would fix each.
-- Ads: which ads and assets are underperforming with enough impressions to judge, and what to test instead (AdPlug's Ads Generator skill writes new ads per ad group).
-- Ad schedule and location: hours and areas where clicks spend without leads, against the brief's hours and service area.
+Thursday's hunt finds them. Here, re-check the brief's Opportunities list against last week's numbers, drop what no longer holds, and pick what goes into the plan. The one exception is search terms that bring leads but aren't keywords yet: they come from this week's search terms review above.
 
 ## 5. The plan
 

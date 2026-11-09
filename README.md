@@ -9,8 +9,9 @@ It's built for people who know a bit of PPC and run Google Ads for their own bus
 ## What it does
 
 - **First run:** reads your website and account, checks what changed recently and who changed it, checks your conversion tracking, shows you what's working and what isn't, asks for your budget, goals and service area, and writes a brief for each client.
-- **Every morning except Monday:** a small check that everything is fine. Ads running, leads coming in, tracking recording, nothing disapproved, pages loading, no change nobody logged. One line when all is fine.
-- **Every Monday:** the changes it would make next, each with the why, the cost and how to undo it, then the evidence: last week against the weeks before, search terms wasting money, missed calls, and whether past changes worked.
+- **Every morning except Monday and Thursday:** a small check that everything is fine. Ads running, leads coming in, tracking recording, nothing disapproved, pages loading, no change nobody logged. One line when all is fine.
+- **Every Thursday:** a hunt for what's quietly holding the goal back and what would bring more leads: a deep check of one area at a time, budget-capped winners, search terms worth adding as keywords, services and areas nobody covers, the season ahead. Each sized, with its cost.
+- **Every Monday:** where you stand against the goal, then the changes it would make next, each with the why, the cost and how to undo it, then the evidence: last week against the weeks before, search terms wasting money, missed calls, and whether past changes worked.
 - **Every month:** a short PDF report per client, ready to send.
 - **Change log:** every change it made, why, and what happened after.
 
@@ -21,9 +22,10 @@ It's built for people who know a bit of PPC and run Google Ads for their own bus
 | `skills/google-ads-manager/` | The manager: first run, goals, approvals, change log, best practice for lead generation, diagnosing drops |
 | `skills/google-ads-daily-check/` | The daily check |
 | `skills/google-ads-weekly-plan/` | The Monday plan |
+| `skills/google-ads-opportunity-hunt/` | The Thursday hunt for problems and opportunities |
 | `skills/google-ads-monthly-report/` | The monthly client report |
 | `DOT.md` | Standing instructions for an OpenAI dot: start now, keep the brief, schedule the routines |
-| `google-ads-manager-for-openai-dots.md` | `DOT.md` and the four skills in one file, to attach to a dot or a ChatGPT chat |
+| `google-ads-manager-for-openai-dots.md` | `DOT.md` and the five skills in one file, to attach to a dot or a ChatGPT chat |
 | `mcp.json` | The address of AdPlug's hosted Google Ads MCP server, `https://api.adplug.app/mcp/google-ads` |
 | `plugin.json`, `.agents/plugins/marketplace.json` | The plugin manifest and marketplace entry for Codex |
 

@@ -67,6 +67,16 @@ Open issues: <issue, since date>
 
 - <date>: <decision, who made it, why>
 
+## Opportunities (from the Thursday hunt)
+
+| Found on | Opportunity or problem | Evidence | Size (estimate) | Cost | Status |
+|---|---|---|---|---|---|
+
+## Deep checks
+
+| Area | Last checked | Found |
+|---|---|---|
+
 ## Booked jobs (from the user, weekly)
 
 | Week | Leads (from the account) | Jobs booked (from the user) | Notes |

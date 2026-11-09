@@ -1,6 +1,6 @@
 ---
 name: google-ads-daily-check
-description: "The small daily check that everything in Google Ads is fine, run each morning except Monday as part of AdPlug's Google Ads Manager. Ads running, yesterday's spend and leads against a normal day, tracking still recording, nothing disapproved, pages behind the ads loading, and any change nobody logged, with who made it. One line when all is fine; only what needs you when it isn't, with the fix it would propose. Read-only: it never changes the account. Use for 'daily check', 'morning check', 'is everything fine', 'anything broken', 'how did yesterday go'."
+description: "The small daily check that everything in Google Ads is fine, run each morning except Monday and Thursday as part of AdPlug's Google Ads Manager. Ads running, yesterday's spend and leads against a normal day, tracking still recording, nothing disapproved, pages behind the ads loading, and any change nobody logged, with who made it. One line when all is fine; only what needs you when it isn't, with the fix it would propose. Read-only: it never changes the account. Use for 'daily check', 'morning check', 'is everything fine', 'anything broken', 'how did yesterday go'."
 license: MIT
 metadata:
   author: AdPlug
@@ -11,7 +11,7 @@ metadata:
 
 Read-only. Follow the `google-ads-manager` skill for the rules (reporting, approvals, the brief) and read each client's brief and change log first. With several clients, send one message grouped by client, not one per client.
 
-Run it every morning except Monday, when the weekly plan covers the same ground. Keep it small: a few reports, not an audit. Ideas and opportunities wait for the weekly plan: a change a day is how small accounts get churned.
+Run it every morning except Monday and Thursday, when the weekly plan and the opportunity hunt cover the same ground. Keep it small: a few reports, not an audit. Ideas and opportunities wait for the weekly plan: a change a day is how small accounts get churned.
 
 ## What to check
 
