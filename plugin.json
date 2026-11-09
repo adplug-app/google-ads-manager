@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "google-ads-manager",
+  "version": "1.0.0",
+  "description": "A proactive Google Ads manager for your AI agent, through AdPlug: it audits the account, checks it every day, plans every Monday, reports every month, and makes only the changes you approve."
+}
